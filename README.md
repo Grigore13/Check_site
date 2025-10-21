@@ -8,11 +8,11 @@ Checks if a websites is reachable
 Saves the HTTP status code for each site in status.txt
 Easy to use and extend
 
-#Installation
+#Installation 
 1.Clone the repository:
   git cline https://......
 
-2.Create and activate a virtual environment
+2.Create and activate a virtual environment:
   python -m venv venv or python3 -m venv venv
   source venv/bin/activate -> for Linux/Mac
   venv/Scripts/activate -> for Windows
