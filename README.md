@@ -10,7 +10,7 @@ Easy to use and extend
 
 #Installation 
 1.Clone the repository:
-  git cline https://......
+  git clone https://......
 
 2.Create and activate a virtual environment:
   python -m venv venv or python3 -m venv venv
