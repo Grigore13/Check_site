@@ -1,0 +1,4 @@
+https://www.google.com/: 200
+https://de.yahoo.com/?p=us: 429
+https://www.oracle.com/: 403
+https://www.nvidia.com/en-us/: 200
